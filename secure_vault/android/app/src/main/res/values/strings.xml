@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecureVault</string>
+    <string name="facebook_app_id">2173100543519832</string>
+    <string name="fb_login_protocol_scheme">fb2173100543519832</string>
+    <string name="facebook_client_token">e65d8f621555f9f4b4cd4a7e5f99674f</string>
+</resources>
